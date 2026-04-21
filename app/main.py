@@ -2,3 +2,8 @@ from service import process
 
 if __name__ == "__main__":
     print(process("hello"))
+print('log1')
+
+print('log2')
+
+print('done')
